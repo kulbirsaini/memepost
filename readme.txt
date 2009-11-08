@@ -14,6 +14,8 @@ Memepost is a wordpress plugin which lets you add a 'Memepost' or 'Post to Meme'
 
 **Demo:** Live demo of this plugin can be seen [here](http://gofedora.com/).
 
+**Note:** Please don't forget to rate the plugin if you like it :)
+
 **Features**
 
     *  Easy to setup. Copy, Activate, Setup and Go :)
