@@ -1,0 +1,195 @@
+# Memepost
+# Copyright (C) YEAR Kulbir Saini
+# This file is distributed under the same license as the PACKAGE package.
+# Kulbir Saini <saini@saini.co.in>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Memepost 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/memepost\n"
+"POT-Creation-Date: 2009-11-06 07:01+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kulbir Saini <saini@saini.co.in>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  memepost.pot (Memepost 0.1)  #-#-#-#-#
+#. Plugin Name of an extension
+#: memepost.php:55
+msgid "Memepost"
+msgstr ""
+
+#: memepost.php:99 memepost.php:101
+msgid "Memepost Button"
+msgstr ""
+
+#: memepost.php:124
+msgid "Enabled"
+msgstr ""
+
+#: memepost.php:125
+msgid "Disabled"
+msgstr ""
+
+#: memepost.php:167
+msgid "Settings"
+msgstr ""
+
+#: memepost.php:177
+msgid "plugin"
+msgstr ""
+
+#: memepost.php:177
+msgid "Version"
+msgstr ""
+
+#: memepost.php:177
+msgid "by"
+msgstr ""
+
+#: memepost.php:187
+msgid "Memepost Settings"
+msgstr ""
+
+#: memepost.php:200
+msgid "Bit.ly Username"
+msgstr ""
+
+#: memepost.php:203
+msgid "A default account will be used if left blank."
+msgstr ""
+
+#: memepost.php:208
+msgid "Bit.ly API Key"
+msgstr ""
+
+#: memepost.php:211
+msgid ""
+"You can get it from <a href = 'http://bit.ly/account/' target = "
+"'_blank'>http://bit.ly/account/</a>."
+msgstr ""
+
+#: memepost.php:216
+msgid "Display Preferences"
+msgstr ""
+
+#: memepost.php:218
+msgid "Display the button on pages"
+msgstr ""
+
+#: memepost.php:219
+msgid "Display the button on archive pages"
+msgstr ""
+
+#: memepost.php:220
+msgid "Display the button in home page"
+msgstr ""
+
+#: memepost.php:225
+msgid "Position"
+msgstr ""
+
+#: memepost.php:227
+msgid "Before the content of your post"
+msgstr ""
+
+#: memepost.php:228
+msgid "After the content of your post"
+msgstr ""
+
+#: memepost.php:229
+msgid "Before AND After the content of your post"
+msgstr ""
+
+#: memepost.php:230
+msgid "Manually call the memepost button"
+msgstr ""
+
+#: memepost.php:231
+msgid ""
+"You can manually call the <code>memepost_button</code> function. E.g. "
+"<code>if (function_exists('memepost_button')) echo memepost_button();."
+msgstr ""
+
+#: memepost.php:236
+msgid "Type"
+msgstr ""
+
+#: memepost.php:238
+msgid "Vertical button"
+msgstr ""
+
+#: memepost.php:239
+msgid "Horizontal button"
+msgstr ""
+
+#: memepost.php:244
+msgid "Button Text"
+msgstr ""
+
+#: memepost.php:247
+msgid "The text that you enter here will be displayed in the button."
+msgstr ""
+
+#: memepost.php:252
+msgid "Message Prefix"
+msgstr ""
+
+#: memepost.php:255
+msgid ""
+"The text that you want to be added in front of each message. eg: <code>New "
+"Post : </code>"
+msgstr ""
+
+#: memepost.php:260
+msgid "Link Attributes"
+msgstr ""
+
+#: memepost.php:262
+msgid "Open a new window/tab when Memepost button is clicked"
+msgstr ""
+
+#: memepost.php:263
+msgid ""
+"<code>target = '_blank'</code> will be added to link. Link will open in new "
+"window."
+msgstr ""
+
+#: memepost.php:264
+msgid "Nofollow Memepost Button Links"
+msgstr ""
+
+#: memepost.php:265
+msgid "<code>rel='nofollow'</code> will be added to link for SEO."
+msgstr ""
+
+#: memepost.php:266
+msgid "Noindex Memepost Buttons"
+msgstr ""
+
+#: memepost.php:267
+msgid "<code>rel='noindex'</code> will be added to link for SEO."
+msgstr ""
+
+#: memepost.php:274
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://gofedora.com/memepost"
+msgstr ""
+
+#. Description of an extension
+msgid "Adds a 'Post to Yahoo! Meme' button to your wordpress pages/post."
+msgstr ""
+
+#. Author of an extension
+msgid "Kulbir Saini"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://gofedora.com/"
+msgstr ""
