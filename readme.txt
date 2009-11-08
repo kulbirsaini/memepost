@@ -1,6 +1,6 @@
 ﻿=== Easy Retweet ===
 Contributors: kulbirsaini
-Tags: posts, mahoo meme, memepost, yahoo, yahoomeme, meme
+Tags: posts, yahoo meme, memepost, yahoo, yahoomeme, meme
 Requires at least: 2.1
 Tested up to: 3.0
 Stable tag: trunk
@@ -43,7 +43,7 @@ if (function_exists('memepost_button')) echo memepost_button();
 
 You can also place the shortcode [memepost] anywhere in your post. This shortcode will be replaced by the button when the post is rendered.
 
-More information available on the plugin home page.
+More information available on the [plugin home page](http://gofedora.com/memepost).
 	
 
 == Installation ==
