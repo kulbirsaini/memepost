@@ -1,4 +1,4 @@
-﻿=== Easy Retweet ===
+=== Memepost ===
 Contributors: kulbirsaini
 Tags: posts, yahoo meme, memepost, yahoo, yahoomeme, meme
 Requires at least: 2.1
